@@ -1,0 +1,4 @@
+interface:
+  display_name: "News Collector"
+  short_description: "Collect stock news into latest collect_info JSON."
+  default_prompt: "Check config.txt parameters first, then run scripts/collect_news.py using <root>/.venv/bin/python to generate the latest collect_info JSON."

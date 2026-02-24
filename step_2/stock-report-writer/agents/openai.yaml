@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Report Writer"
+  short_description: "Script-first stock summary pipeline from latest JSON."
+  default_prompt: "Run scripts/prepare_inputs.py first to load config/model/word range and latest collect_info JSON, generate per-field summaries with LLM only for step 5, then run scripts/write_output.py to write same-name TXT sections with no global intro."

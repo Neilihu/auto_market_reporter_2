@@ -1,0 +1,4 @@
+interface:
+  display_name: "TXT to PDF Exporter"
+  short_description: "Convert latest collect_info TXT into PDF output."
+  default_prompt: "Run scripts/txt_to_pdf.py to convert the latest collect_info txt to same-name pdf using PDF OUTPUT DIR from config.txt."

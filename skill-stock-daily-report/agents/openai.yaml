@@ -1,0 +1,4 @@
+interface:
+  display_name: "skill_stock_daily_report"
+  short_description: "Default entry skill routing to daily-report-orchestrator."
+  default_prompt: "When user invokes skill_stock_daily_report, route directly to daily-report-orchestrator for full step_1->step_2->step_3 execution unless the user explicitly asks for a single stage only."

@@ -1,0 +1,47 @@
+COMPANY:
+AMD: AMD, Advanced Micro Devices, Advanced Micro Devices Inc
+NVDA: NVDA, NVIDIA, Nvidia, Nvidia Corp, Nvidia Corporation
+GOOGL: GOOGL, Alphabet, Alphabet Inc, Google
+NEE: NEE, NextEra Energy, NextEra Energy Inc, NextEra
+XOM: XOM, Exxon Mobil, ExxonMobil, Exxon Mobil Corporation
+CVX: CVX, Chevron, Chevron Corporation
+
+DAY RANGE:
+60
+
+TOPIC:
+cash flow,
+operating cash flow,
+free cash flow,
+cash flow guidance,
+cash flow outlook,
+cash generation trend,
+cash conversion efficiency,
+working capital impact,
+capex and cash flow,
+liquidity position,
+net cash trend,
+cash burn risk,
+deleveraging via cash flow,
+cash flow quality
+
+TOPIC CORE:
+money
+
+TOP_K:
+2
+
+SUMMARY LENGTH:
+200-300
+
+MODEL:
+gpt-5-mini
+
+AUTO:
+0
+
+PDF OUTPUT DIR:
+collect_info
+
+PDF FONT SIZE:
+15
